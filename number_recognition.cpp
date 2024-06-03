@@ -1,5 +1,5 @@
 //2001223 정용규
-//깃허브에서 리드미 파일 편집 시 차단되는 오류가 있어서 주석으로 설명함
+//https://www.youtube.com/watch?v=5bQ78DNlzPo
 #include <iostream>
 using namespace std;
 #include "opencv2/opencv.hpp"
